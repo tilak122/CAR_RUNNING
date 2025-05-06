@@ -7,5 +7,6 @@ button.addEventListener('click',()=>{
     document.querySelector('.track').style.animation= " trackmove linear 1s infinite"
      
     music.play();
+})
 
 
